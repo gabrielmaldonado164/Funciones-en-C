@@ -3,3 +3,4 @@ Repositorio creado
 git clone - siempre con arhcivo readme 
 git add . - agregar archivos
 git commit -m "..." 
+git push 
